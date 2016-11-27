@@ -15,7 +15,7 @@ menu(){
 
 	case "$MENU" in
 	 0) sh windows/reverse_tcp.sh ;;
-	 1) sh osx/reverse_http.sh ;;
+	 1) sh windows/reverse_http.sh ;;
 #	 2) TBD ;;
 #	 3) TBD ;;
 #	 4) TBD ;;
