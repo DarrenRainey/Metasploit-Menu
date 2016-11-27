@@ -10,3 +10,6 @@ apt-get update && apt-get install git bash wget && git clone https://github.com/
 
 # Usage
 cd Metasploit-Menu && sh menu.sh
+
+# Note
+When specifing output you must include the extenstion such as /home/user/EXPLOIT.exe
