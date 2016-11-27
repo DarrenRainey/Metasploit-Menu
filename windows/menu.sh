@@ -14,8 +14,8 @@ menu(){
 	read MENU
 
 	case "$MENU" in
-	 0) sh windows/menu.sh ;;
-	 1) sh osx/menu.sh ;;
+	 0) sh windows/reverse_tcp.sh ;;
+	 1) sh osx/reverse_http.sh ;;
 #	 2) TBD ;;
 #	 3) TBD ;;
 #	 4) TBD ;;
