@@ -7,3 +7,6 @@ apt-get update && apt-get install git bash wget && git clone https://github.com/
 # Dependencies
 * Metasploit
 * bash
+
+# Usage
+cd Metasploit-Menu && sh menu.sh
