@@ -4,10 +4,10 @@ menu(){
 	echo "Select Payload Type
 	0) Reverse TCP Shell
 	1) Reverse HTTP Shell
-#	2) TBD
-#	3) TBD
-#	4) TBD
-#	5) TBD
+	2) Not Available
+	3) Not Available
+	4) Not Available
+	5) Not Available
 	x) Exit
 	"
 	echo -n "What should I PWN ?: "
